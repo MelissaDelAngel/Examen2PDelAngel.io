@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.encabezadoMDAJ img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedorMDAJ {
+    background-color: blueviolet;
+}
+.parrafoMDAJ {
+    width: 60%;
+    padding: 10px;
+    background-color: darksalmon;
+    margin: auto;
+}
+p{
+    color: darkkhaki;
+    font-size: 2em;
+    padding: 10px;
+    background-color: brown;
+}
+.parrafoMDAJ Img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+h1 {
+    color: darkkhaki;
+    background-color: crimson;
+    font-size: 3em;
+    padding: auto;
+}
+ul{
+    color: darkkhaki;
+    font-size: 2em;
+    background-color: brown; 
+    padding: 2em;
+}
